@@ -1,5 +1,5 @@
 #! python3
-# downloadXkcd.py - Downloads all the XKCD comics..
+# download_image.py - Downloads all the XKCD comics..for now....
 
 import os
 import requests, bs4
